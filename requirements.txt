@@ -1,0 +1,31 @@
+# Stock Predictor with Technical Indicators - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# Financial Data and Technical Analysis
+yfinance>=0.2.18
+ta>=0.10.2
+
+# Machine Learning (Deep Learning)
+tensorflow>=2.13.0
+keras>=2.13.1
+
+# GUI Framework (usually included with Python)
+# tkinter - comes pre-installed with most Python distributions
+
+# Optional: For enhanced plotting and analysis
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Development and Testing
+pytest>=7.4.0
+jupyter>=1.0.0
+
+# System utilities
+requests>=2.31.0
+urllib3>=2.0.0
